@@ -1,0 +1,71 @@
+Artifact,Description,Negative Description,Neutral/Not applicable
+Inconsistent object boundaries,Discontinuous Boundaries,Continuous Boundaries,No Boundaries
+Discontinuous surfaces,Broken and Discontinuous Surfaces,"Smooth, Realistic Continuous Surfaces",No Surfaces
+Non-manifold geometries in rigid structures,Unnatural Shapes,Natural Shapes,No Rigid Structures
+Floating or disconnected components,Disconnected components,Connected components,No components
+Asymmetric features in naturally symmetric objects,Asymmetric objects,Symmetric objects,No object
+Misaligned bilateral elements in animal faces,Asymmetric face,Symmetric face,No animal 
+Irregular proportions in mechanical components,Irregular sized parts,Regular sized parts,No Mechanical Parts
+Texture bleeding between adjacent regions,Discontinuous textures,Continuous textures,IRRELEVANT
+Texture repetition patterns,Unnatural Texture repetition patterns,Natural Texture Variation,Organic Objects
+Over-smoothing of natural textures,Unnatural smooth texture,Realistic smooth texture,Rough texture
+Artificial noise patterns in uniform surfaces,Unnatural noise in uniform surfaces,Natural noise in uniform surfaces,No surfaces
+Unnatural specular highlights,Unnatural lighting,Natural lighting,No lighting
+Inconsistent material properties,Unnatural materials,Realistic materials,No material
+Metallic surface artifacts,Unnatural Metallic Reflections,Realistic Metallic reflections,Metallic Surface
+Dental anomalies in mammals,Unnatural teeth,Natural teeth,No teeth
+Anatomically incorrect paw structures,Unnatural paw shape,Natural paw shape,No paws
+Improper fur direction flows,Unnatural fur flow,Natural fur flow,No fur
+Unnatural eye reflections,Unnatural eye reflections,Natural eye reflections,No eyes
+Misshapen ears or appendages,Unnatural ear shape,Natural ear shape,No ears
+Impossible mechanical connections,Incorrect mechanical connection,Correct mechanical connection,No mechanical connection
+Inconsistent scale of mechanical parts,Irregular sized parts,Regular sized parts,No Mechanical Parts
+Physically impossible structures,Unnatural Physics,Natural physics,Animal
+Inconsistent shadow directions,Multiple shadows,Single shadow,No shadows
+Multiple light source conflicts,Multiple light source,Single light source,No light source
+Missing ambient occlusion,Dark shadow in corners,Subtle shadow in corners,No shadows
+Incorrect reflection mapping,Unnatural reflections,Natural reflections,No reflections
+Incorrect perspective rendering,Unnatural perspective view,Natural perspective view,No perspective view
+Scale inconsistencies in objects,Irregular sized objects,Regular sized objects,No objects
+Spatial relationship errors,Incorrectly positioned Objects,Correctly positioned Objects,No object
+Depth perception anomalies,Unnatural depth,Natural depth,No depth
+Over-sharpening artifacts,Unnatural sharp edges,Natural sharp edges,Soft edges
+Aliasing along high-contrast edges,Jagged light boundary,Smooth light boundary,No light boundary
+Blurred boundaries in details,Blurred boundaries,Clean boundaries,No boundaries
+Jagged edges in curved structures,"Pixelated, uneven curves","Smooth, clean curves",Geometric Objects
+Random noise in detailed areas,Noise detailing,Clean detailing,No detailing
+Loss of fine details in structures,Missing important details,Well-defined details,No details
+Artificial enhancement artifacts,Unnatural effects,Natural effects,IRRELEVANT
+Incorrect wheel geometry,Unreal wheels,Round wheels,No wheels
+Implausible aerodynamic structures,Unreal aeroplane,Real aeroplane,No aeroplane
+Misaligned body panels,Panels not aligned properly,Panels aligned smoothly,Animal
+Impossible mechanical joints,Unnatural mechanical joints,Natural mechanical joints,No mechanical joints
+Distorted window reflections,Incorrect window reflection,Correct window reflection,No window
+Anatomically impossible joint configurations,Incorrect limb joints,Correct limb joints,No limb joints
+Unnatural pose artifacts,Unnatural pose,Natural pose,Vehicle
+Biological asymmetry errors,Asymmetric body,Symmetric body,Vehicle
+Regular grid-like artifacts in textures,Grid patterns,No grid patterns,No surfaces
+Repeated element patterns,Repeated pattern,Unique pattern,No pattern
+Systematic color distribution anomalies,Uneven or jarring color patterns,Even and natural color distribution,Black and white
+Frequency domain signatures,Unnatural patterns in frequencies,Natural frequency patterns,IRRELEVANT
+Color coherence breaks,Unnatural colour transition,Natural colour transition,Black and white
+Unnatural color transitions,Discontinous colour transition,Natural colour transition,Black and white
+Resolution inconsistencies within regions,Blurry and sharp areas,Consistent sharpness across the image,Uniform Resolution
+Unnatural lighting gradients,Unnatural light transitions,Natural light transitions,IRRELEVANT
+Incorrect skin tones,Unnatural skin colours,Natural skin colours,No skin
+Fake depth of field,Unnatural depth,Natural depth,No depth
+Abruptly cut off objects,Cut off object,Full object,No object
+Glow or light bleed around object boundaries,Unnatural light edges,Natural light edges,No light edges
+Ghosting effects,Multiple,Single,IRRELEVANT
+Cinematization Effects,Unnatural effects,Natural effects,IRRELEVANT
+Excessive sharpness in certain image regions,Over-sharp areas,No sharp areas,IRRELEVANT
+Artificial smoothness,Unnatural smoothness ,Natural smoothness,Roughness
+Movie-poster like composition,Unnatural effects,Natural effects,Natural effects
+Dramatic lighting that defies natural physics,Unnatural lightning,Natural lighting,IRRELEVANT
+Artificial depth of field in object presentation,Unnatural depth,Natural depth,No depth
+Unnaturally glossy surfaces,Unnatural Glossy surface,Realistic glossy surface,Matte surface
+Synthetic material appearance,Unnatural Plastic surface,Natural plastic surface,No plastic
+Multiple inconsistent shadow sources,Multiple shadows,Single shadow,No shadows
+Exaggerated characteristic features,Highly detailed,Natural detailed,Blur
+Impossible foreshortening in animal bodies,Irregular limb size,Natural limb size,Vehicle
+Scale inconsistencies within the same object class,Different size objects,Same size objects,Single object
