@@ -53,3 +53,7 @@ The dataset builds upon the CIFAKE dataset, integrating adversarial perturbation
 - Addressing variations in synthetic image quality across different generative models.
 - Overcoming the limitations posed by low-resolution 32x32 image inputs.
 
+## Citations
+- CIFAR 10 : Introduced by Krizhevsky et al. in [Learning multiple layers of features from tiny images](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
+- MOLMO : [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models](https://arxiv.org/pdf/2409.17146)
+- CLIP: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
