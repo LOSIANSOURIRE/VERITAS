@@ -21,6 +21,12 @@ The proliferation of AI-generated content has necessitated the development of ro
 - Utilizes CLIP-based scoring to quantify and rank unnatural features.
 - Leverages MOLMO to generate textual descriptions of detected artifacts, improving interpretability.
 
+## Pipelines
+### 1. Task 1 Pipeline
+![Pipeline goes here](relative%20path/to/img.jpg?raw=true "Title")
+### 2. Task 2 pipeline
+![Task 2 pipeline](pipeline_structures/Task_2_pipeline_structure.png?raw=true "Task 2 Pipeline")
+
 ## Dataset Composition
 The dataset builds upon the CIFAKE dataset, integrating adversarial perturbations from:
 - **Fast Gradient Sign Method (FGSM)**: Introduces minimal perturbations to deceive classifiers.
