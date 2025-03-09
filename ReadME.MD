@@ -23,7 +23,7 @@ The proliferation of AI-generated content has necessitated the development of ro
 
 ## Pipelines
 ### 1. Task 1 Pipeline
-![Pipeline goes here](relative%20path/to/img.jpg?raw=true "Title")
+![Task 1 pipeline](pipeline_structures/Task_1_pipeline_structure.png?raw=true "Task 1 Pipeline")
 ### 2. Task 2 pipeline
 ![Task 2 pipeline](pipeline_structures/Task_2_pipeline_structure.png?raw=true "Task 2 Pipeline")
 
