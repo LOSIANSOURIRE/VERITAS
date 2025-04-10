@@ -1,13 +1,13 @@
 # Decoding Real and AI-Generated: An Explainable Approach to Image Detection
 
 ## Overview
-The proliferation of AI-generated content has necessitated the development of robust methodologies for distinguishing real images from synthetic ones. This project introduces a two-stage framework for AI-generated image detection. The first stage employs a high-accuracy classification model to differentiate between real and synthetic images. The second stage integrates an interpretability framework that identifies and highlights visual artifacts such as texture inconsistencies, lighting anomalies, and structural deviations, providing transparency in decision-making.
+The proliferation of AI-generated content has necessitated the development of robust methodologies for distinguishing real images from synthetic ones. This project introduces a two-stage framework for AI-generated image detection and explanation. The first stage employs a high-accuracy classification model to differentiate between real and synthetic images. The second stage integrates an interpretability framework that identifies and highlights visual artifacts such as texture inconsistencies, lighting anomalies, and structural deviations, providing transparency in model decision-making.
 
 ## Features
-- **Robust Image Classification**: Implements state-of-the-art deep learning models for accurate differentiation between real and AI-generated images.
+- **Robust Image Classification**: Implements state-of-the-art deep learning models for accurate classification between real and AI-generated images.
 - **Artifact Detection and Explainability**: Utilizes advanced interpretability techniques to highlight and analyze distinguishing features.
 - **Adversarial Robustness**: Enhances model resilience against adversarial perturbations through defensive training strategies.
-- **Super-Resolution for Detailed Analysis**: Applies super-resolution techniques to improve artifact detection in low-resolution images.
+- **Super-Resolution for Detailed Analysis**: Applies super-resolution techniques to improve artifact detection in case of low-resolution images.
 
 ## Methodology
 ### 1. Classification Framework
