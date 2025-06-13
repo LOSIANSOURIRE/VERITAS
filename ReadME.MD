@@ -14,7 +14,7 @@ The widespread adoption of AI-generated content has revolutionized the digital m
 - Implements a weighted ensemble approach to optimize predictive performance.
 
 ### 2. Artifact Detection Mechanism
-- Enhances image resolution using DRCT Super-Resolution models.
+- Enhances image resolution using DRCT (Diffusion Reconstruction Contrastive Training) Super-Resolution models.
 - Applies GradCAM-based heatmaps to visualize decision-critical regions.
 - Utilizes CLIP-based scoring to quantify and rank unnatural features.
 - Leverages MOLMO to generate textual descriptions of detected artifacts, improving interpretability.
